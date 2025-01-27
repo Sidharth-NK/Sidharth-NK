@@ -14,10 +14,10 @@
 🔧 **Open Hardware Intern at ICFOSS** (International Centre for Free and Open Source Software), contributing to impactful open-source hardware projects.  
 
 ## 🌟 My Interests  
-- 🔧 Embedded Systems  
+- 🔧 Embedded Systems|IoT
 - 🌐 Open Source Technologies  
-- 🖥️ RISC-V Architecture  
-- 🔒 Cybersecurity  
+- 🖥️ RISC-V 
+- 🔒 Semiconductors
 
 ## 🎯 Goals  
 I'm passionate about contributing to the open-source community, learning new tools, and creating impactful solutions. Let’s innovate and grow together!  
