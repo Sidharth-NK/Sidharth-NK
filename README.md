@@ -8,11 +8,11 @@ I am an **Edge Analytics Intern at ICFOSS**, currently working on:
 I am in my **final year of B.Tech in Electronics and Communication Engineering** at **Sree Chitra Thirunal College of Engineering**. My expertise lies in embedded systems, artificial intelligence, and edge computing.  
 
 ### Technical Skills  
-- **Embedded Systems:** Stm32 (Cortex M3), SPI-UART-I2C, RTOS (FreeRtos), Hifive Rev1b mcu,
+- **Embedded Systems:** Arduino, SPI-UART-I2C, RTOS (FreeRtos), Hifive Rev1b mcu,
 - **Programming:** C, Embedded C, Python
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, TensorFlow, Scikit-learn  
-- **Tools & Platforms:** Linux, MATLAB-Simulink  
-
+- **Tools & Platforms:** Linux
+  
 ### Interests  
 - Embedded Systems & Hardware  
 - Artificial Intelligence & Machine Learning  
