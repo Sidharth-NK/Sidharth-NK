@@ -1,24 +1,13 @@
 # Hi I'm Sidharth
 
 ### About Me  
-I am an **Edge Analytics Intern at ICFOSS**, currently working on:  
-- **Acoustic Rain Gauge using Edge Analytics**  
-- **Artificial Nose for Odor Classification**  
-
-I am in my **final year of B.Tech in Electronics and Communication Engineering** at **Sree Chitra Thirunal College of Engineering**. My expertise lies in embedded systems, artificial intelligence, and edge computing.  
+I am an **Edge Analytics Intern at ICFOSS**
 
 ### Technical Skills  
 - **Embedded Systems:** Arduino, SPI-UART-I2C, RTOS (FreeRtos), Hifive Rev1b mcu,
 - **Programming:** C, Embedded C, Python
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, TensorFlow, Scikit-learn  
 - **Tools & Platforms:** Linux
-  
-### Interests  
-- Embedded Systems & Hardware  
-- Artificial Intelligence & Machine Learning  
-- Psychology 
-- Space   
-- Art
   
 ### Portfolio  
 Explore my projects and work:  
