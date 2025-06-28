@@ -15,8 +15,8 @@ Explore my projects and work:
 
 ### Publications & Blogs  
 I actively write about technology and research on:  
-- **[Medium](https://medium.com/)**  
-- **[Hashnode](https://hashnode.com/)**  
+- **[Medium](https://medium.com/@sid4official)**  
+- **[Hashnode](https://hashnode.com/@sid2ko3)**  
 
 ### Get in Touch  
 Feel free to connect or collaborate!  
