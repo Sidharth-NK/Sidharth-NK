@@ -23,3 +23,5 @@ Feel free to connect or collaborate!
 
 📧 Email: [sid4official@gmail.com](mailto:sid4official@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/sidharth-krishna25](https://www.linkedin.com/in/sidharth-krishna25/)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sidharth-NK&show_icons=true&locale=en" alt="Sidharth-NK" /></p>
