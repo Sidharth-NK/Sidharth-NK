@@ -1,12 +1,15 @@
 # Hi I'm Sidharth
 
 ### About Me  
-I am an **Edge Analytics Intern at ICFOSS**
+- **AI/ML Researcher**
+- Currently working as a **Robotics and Computer Vision Engineer** at **Netrasemi Pvt Ltd.**.
+- Previously **Edge Analytics Intern** at **International Centre For Free and OpenSource Solutions**.
 
 ### Technical Skills  
-- **Embedded Systems:** Arduino, SPI-UART-I2C, RTOS (FreeRtos), Hifive Rev1b mcu,
-- **Programming:** C, Embedded C, Python
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, TensorFlow, Scikit-learn  
+- **Programming:** C, C++, Python, XML(Markup language)
+- **Embedded Systems:** Hifive Rev1b mcu, Raspberry Pi, Jetson Nano, Arduino, SPI-UART-I2C, RTOS, LoRaWAN.
+- **Libraries, Frameworks & Tools :** NumPy, Pandas, Pytorch, TensorFlow, Scikit-learn, ROS2, Gazebo ,RViz, Git
+- **DL Architectures:** Transformers-BERT,Segformer, CNN ,RNN, YOLO, LSTM
 - **Tools & Platforms:** Linux
   
 ### Portfolio  
