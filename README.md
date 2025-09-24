@@ -1,7 +1,7 @@
 ## Hi there, I'm Sidharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 - ECE Graduate (2025)
 - Exploring and Researching in AIML
-- Keep your friends close, and your datasets closer.”
+- Keep your friends close, but your datasets closer.”
 ---
 <p align="center">
   <img width="200px" alt="DedSec GIF" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
