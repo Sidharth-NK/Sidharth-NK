@@ -1,5 +1,5 @@
 ## Hi there, I'm Sidharth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-- ECE Graduate (2025)
+- ECE Graduate 
 - Exploring and Researching in AIML
 - Keep your friends close, but your datasets closer.”
 ---
