@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,bash,git,docker,grafana,linux,opencv,mysql,pytorch,raspberrypi,tensorflow,ros" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,arduino,bash,git,docker,grafana,linux,opencv,mysql,pytorch,raspberrypi,tensorflow,ros" alt="My Skills"/>
 </p>
 
 ---
