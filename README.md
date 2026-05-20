@@ -1,5 +1,5 @@
 ### Info
-| Info       | Links |
+|            |       |
 |------------|-------|
 | **Portfolio** | [Website](#) _(Coming Soon)_ |
 | **ORCID ID**  | [0009-0002-4336-2477](https://orcid.org/0009-0002-4336-2477) |
