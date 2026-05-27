@@ -1,3 +1,8 @@
+# Sidharth N Krishna
+
+Focused on efficient and reliable LLM reasoning systems
+
+---
 ### Info
 |            |       |
 |------------|-------|
